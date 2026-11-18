@@ -1,0 +1,11 @@
+**
+!Dockerfile
+!pyproject.toml
+!README.md
+!main.py
+!core/
+!core/*.py
+!attacks/
+!attacks/*.py
+!cli/
+!cli/*.py

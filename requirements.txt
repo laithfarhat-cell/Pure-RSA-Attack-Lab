@@ -1,0 +1,2 @@
+# Runtime (rich) and test (pytest) dependency ranges live in pyproject.toml.
+.[test]
